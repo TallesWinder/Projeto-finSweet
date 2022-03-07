@@ -1,0 +1,30 @@
+#logo {
+    margin: 20px 470px 0px 80px;  
+}
+
+.home-navigation-list {
+    display: inline-block;
+    margin-right: 40px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.header-navigation, #donate {
+    color: #525560;
+}
+
+.header-navigation:hover {
+    color: #0B0706;
+}
+
+#donate {
+    transition: 0.4s linear;
+    border-radius: 6px;
+}
+
+#donate:hover {
+    padding: 12px;
+    border-radius: 6px;
+    background-color: #1D2130;
+    color: #FFFFFF;
+}
